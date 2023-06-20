@@ -2,7 +2,7 @@
     "//OpenComment1": "READ BEFORE GETTING TO WORK!",
     "//OpenComment2": "EVERY STRING IS LOCATED IN THE FILE LIKE IT IS IN-GAME. ORDER: RIGHT, LEFT, DOWN",
     "//OpenComment3": "Comments are written like strings because JSON's limits",
-    "// Common": "",
+    "// Common": "// 일반",
     "physicsmod.gui.back": "뒤로",
     "physicsmod.gui.reset": "재설정",
     "physicsmod.gui.search": "검색...",
